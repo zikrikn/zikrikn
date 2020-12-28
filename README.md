@@ -2,7 +2,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on something on myself
 - 🌱 I’m currently learning about Python and Javascript
 - 📫 How to reach me: email@zikri.xyz
 - 😄 Pronouns: He/Him
