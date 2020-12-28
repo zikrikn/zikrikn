@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [2020 trends in home decor](https://zikri.xyz/2020-trends-in-home-decor/)
+- [Blog tips for beginners](https://zikri.xyz/blog-tips-for-beginners/)
+- [Join Zabibas Global Giveaway](https://zikri.xyz/join-zabibas-global-giveaway/)
+- [Why is living coral color of the year?](https://zikri.xyz/why-is-living-coral-color-of-the-year/)
 <!-- BLOG-POST-LIST:END -->
 
 <img src='https://profile-counter.glitch.me/zikrikn/count.svg' width='100px'>
