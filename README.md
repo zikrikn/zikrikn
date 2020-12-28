@@ -1,6 +1,6 @@
 ### Hi there <a href="https://www.zikri.xyz/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-Here are some ideas to get you started:
+Welcome!
 
 - 🌱 I’m currently learning about Python and Javascript
 - 📫 How to reach me: email@zikri.xyz
