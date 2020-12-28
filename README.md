@@ -1,24 +1,19 @@
-### Hi there 👋
-
-<!--
-**zikrikn/zikrikn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on something on myself
+- 🌱 I’m currently learning about Python and Javascript
+- 📫 How to reach me: email@zikri.xyz
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm an INFP
 
-# Blog posts
+📊 **This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=zikrikn&hide_title=true&hide_border=true&langs_count=5)
+
+📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [2020 trends in home decor](https://zikri.xyz/2020-trends-in-home-decor/)
-- [Blog tips for beginners](https://zikri.xyz/blog-tips-for-beginners/)
-- [Join Zabibas Global Giveaway](https://zikri.xyz/join-zabibas-global-giveaway/)
-- [Why is living coral color of the year?](https://zikri.xyz/why-is-living-coral-color-of-the-year/)
 <!-- BLOG-POST-LIST:END -->
+
+<img src='https://profile-counter.glitch.me/zikrikn/count.svg' width='100px'>
