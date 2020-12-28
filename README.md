@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = "on"](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome "Your connection is not private" warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
-- [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)
+- [2020 trends in home decor](https://zikri.xyz/2020-trends-in-home-decor/)
+- [Blog tips for beginners](https://zikri.xyz/blog-tips-for-beginners/)
+- [Join Zabibas Global Giveaway](https://zikri.xyz/join-zabibas-global-giveaway/)
+- [Why is living coral color of the year?](https://zikri.xyz/why-is-living-coral-color-of-the-year/)
 <!-- BLOG-POST-LIST:END -->
