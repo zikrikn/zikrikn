@@ -2,7 +2,7 @@
 
 Welcome!
 
-- 🌱 I’m currently learning about Python and Javascript
+- 🌱 I’m currently learning about **....**
 - 📫 How to reach me: email@zikri.me
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an INFP
