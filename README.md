@@ -13,5 +13,5 @@ Welcome!
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [Welcome to Jekyll!](/jekyll/update/2021/04/10/welcome-to-jekyll.html)
+- [Welcome to Jekyll!](http://zikri.me/jekyll/update/2021/04/10/welcome-to-jekyll.html)
 <!-- BLOG-POST-LIST:END -->
