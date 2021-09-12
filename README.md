@@ -2,7 +2,7 @@
 
 Welcome!
 
-- 🌱 I’m currently learning about **Golang and C++**
+- 🌱 I’m currently learning about **Golang**
 - 📫 How to reach me: email@zikri.me
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an INFP
