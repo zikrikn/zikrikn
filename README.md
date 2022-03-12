@@ -3,7 +3,7 @@
 Welcome!
 
 - 🌱 I’m currently learning about **Golang and C++**
-- 📫 How to reach me: email@zikri.me
+- 📫 How to reach me: zikrikholifah898@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm an INFP
 
