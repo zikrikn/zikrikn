@@ -13,4 +13,6 @@ Welcome!
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [This is My First Post!](http://zikri.me/random/2021/04/11/this-is-my-first-post.html)
+- [Welcome to Jekyll!](http://zikri.me/jekyll/update/2021/04/10/welcome-to-jekyll.html)
 <!-- BLOG-POST-LIST:END -->
