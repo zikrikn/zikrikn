@@ -1,4 +1,4 @@
-### Hi there <a href="https://www.zikri.me/">👋</a>
+### Hi there <a href="http://zikrikn.github.io">👋</a>
 
 Welcome!
 
