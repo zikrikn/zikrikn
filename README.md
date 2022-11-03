@@ -2,7 +2,7 @@
 
 Welcome!
 
-- 🌱 I’m currently learning about **JavaScript, Python, and C**
+- 🌱 I’m currently learning about **REST API, JS, & Python**
 - 📫 How to reach me: zikrikholifah898@gmail.com
 
 📊 **This week I spent my time on**
