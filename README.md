@@ -2,7 +2,7 @@
 
 Welcome!
 
-- 🌱 I’m currently learning about **REST API, JS, & Python**
+- 🌱 I’m currently learning about **Golang, Node.js, MongoDB, and React**
 - 📫 How to reach me: zikrikholifah898@gmail.com
 
 📊 **This week I spent my time on**
