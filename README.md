@@ -2,7 +2,7 @@
 
 Welcome!
 
-- 🌱 I’m currently learning about **Golang, Node.js, MongoDB, and React**
+- 🌱 I’m currently learning about **Golang and MERN**
 - 📫 How to reach me: email@zikri.dev
 
 📊 **This week I spent my time on**
