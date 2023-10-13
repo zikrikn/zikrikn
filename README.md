@@ -3,7 +3,7 @@
 Welcome!
 
 - 🌱 I’m currently learning about **Golang, Node.js, MongoDB, and React**
-- 📫 How to reach me: zikrikholifah898@gmail.com
+- 📫 How to reach me: email@zikri.dev
 
 📊 **This week I spent my time on**
 <br />
