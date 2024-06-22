@@ -12,4 +12,4 @@ Welcome!
 <a href="https://wakatime.com/@ab19c96c-46e0-4d59-a74b-445f73c0e40d">
     <img src="https://wakatime.com/badge/user/ab19c96c-46e0-4d59-a74b-445f73c0e40d.svg" alt="WakaTime Badge">
 </a>
-<img src="https://komarev.com/ghpvc/?username=zikrikn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=zikrikn&label=profile%20views&color=0e75b6&style=flat" alt="Profile Views">
