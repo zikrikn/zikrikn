@@ -1,9 +1,8 @@
-### Hi there <a href="http://zikrikn.github.io">👋</a>
+### Hi there <a href="https://zikri.dev">👋</a>
 
 Welcome!
 
-- 🌱 I’m currently learning about **Golang and MERN**
-- 📫 How to reach me: email@zikri.dev
+- 🌱 You can see my quick snapshit that I'm doing right now in https://zikri.dev/now
 
 📊 **This week I spent my time on**
 <br />
