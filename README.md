@@ -2,7 +2,7 @@
 
 Welcome!
 
-- 🌱 What I'm up to : https://zikri.dev/now
+- 🌱 What I'm up to : [zikri.dev/now](https://zikri.dev/now)
 
 📊 **This week I spent my time on**
 <br />
