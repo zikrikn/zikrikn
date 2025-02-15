@@ -2,7 +2,7 @@
 
 Welcome!
 
-- 🌱 You can see my quick snapshit that I'm doing right now in https://zikri.dev/now
+- 🌱 What I'm up to : https://zikri.dev/now
 
 📊 **This week I spent my time on**
 <br />
